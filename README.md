@@ -15,7 +15,7 @@ cp .env.example .env
 npm start
 ```
 
-Then open: http://localhost:3000
+Then open: http://19.192.145.179:3000
 
 ## Notes
 - The API key must stay on the server (never in browser JS).
